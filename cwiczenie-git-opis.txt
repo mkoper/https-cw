@@ -26,3 +26,8 @@ Przebieg ćwiczenia git
 5. Commit (każdy na swoim localhoście)
     git add .
     git commit -a -m "opis cwiczenia git"            
+    
+    
+
+
+    
