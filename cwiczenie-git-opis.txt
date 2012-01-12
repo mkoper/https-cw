@@ -1,0 +1,33 @@
+Przebieg ćwiczenia git
+
+
+
+1. utworzenie gajdaw/https-cw  z zawartością
+    a) utworzenie nowego pustego projektu github  gajdaw/https-cw
+    b) w dowolnym folderze umieszczamy pliki
+           git init
+           git add .
+           git commit -a -m "initial"
+           git remote add origin git@github.com:gajdaw/https-cw.git
+           git push origin master
+
+    
+2. Każdy kto chce tworzy forka
+
+   np.  student/https-cw
+        janek/https-cw
+        
+        
+3. Każdy kto ma forka robi clone
+
+4. Tworzymy swoją nową zawartość
+    (jakikolwiek plik o dowolnej ale dziwnej nazwie)
+    
+5. Commit (każdy na swoim localhoście)
+    git add .
+    git commit -a -m "opis cwiczenia git"            
+    
+    
+
+
+    
