@@ -28,6 +28,24 @@ Przebieg ćwiczenia git
     git commit -a -m "opis cwiczenia git"            
     
     
+6. Każdy przesyła swoje komity do swojego forka
+
+    git push origin master
+    
+    
+7. Następnie w interfejsie github wysyłamy pull request
+
+8. Admin wykonuje operacje merge na pull requestach
+
+9. Każdy kto chce robi pull request
+
+
+    git remote add  glowny git://github.com/gajdaw/https-cw.git
+    git pull glowny master
+    
+    
+            
+    
 
 
     
